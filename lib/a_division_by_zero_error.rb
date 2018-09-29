@@ -1,3 +1,5 @@
 42 / 6
 
-42 / 0
+number = 1 
+number -= 1
+42 / number
